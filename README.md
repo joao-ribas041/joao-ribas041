@@ -32,4 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joao-ribas041&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" alt="joao-ribas041" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-ribas041&theme=tokyonight&" alt="joao-ribas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-ribas041&theme=tokyonight&](https://github-readme-streak-stats.herokuapp.com?user=joao-ribas041&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="joao-ribas" /></p>
+
