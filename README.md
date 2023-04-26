@@ -10,7 +10,7 @@
 
 - 🔭 Atualmente estou trabalhando na [Eletrorastro](https://www.eletrorastro.com.br/)
 
-- 🌱 Atualmente estou estudando **Python**
+- 🌱 Atualmente estou me aprimorando em **Django** e estudando **JavaScript**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [joao-ribas](https://github.com/joao-ribas041)
 
